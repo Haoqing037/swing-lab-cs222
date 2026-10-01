@@ -45,7 +45,7 @@ Next analysis milestone: agree on phase labels (address/top/impact/finish), impl
 
 ## Four-person division
 
-- **You — tech lead / core analysis / integration:** own Models and Analysis; define contracts, review interfaces, integrate branches, validate camera/phase assumptions.
+- **Member 1 — tech / core analysis / integration:** own Models and Analysis; define contracts, review interfaces, integrate branches, validate camera/phase assumptions.
 - **Member 2 — pose / video:** own Video and Pose; improve decoding speed, cancellation/progress, confidence diagnostics and orientation testing with real clips.
 - **Member 3 — SwiftUI / video picker:** own Views; improve navigation, rename/delete, import progress and errors, accessibility and local-library interactions.
 - **Member 4 — skeleton / feedback / testing:** own Visualization, Feedback and Tests; improve overlay styling, matched-pose display, meaningful feedback and test fixtures.
